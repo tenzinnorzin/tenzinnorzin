@@ -18,7 +18,7 @@ My profile consists of my projects and my code for DSA practice.
 :small_orange_diamond:	SQL
 
 ### Programming and CS Fundamentals
-:small_orange_diamond:	Datastructures & Algorithms
+:small_orange_diamond:	Datastructures & Algorithms           
 
 :small_orange_diamond:	OOPs
 
@@ -28,7 +28,10 @@ My profile consists of my projects and my code for DSA practice.
 
 My Stats:
 
-![Tenzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzinnorzin&theme=jolly&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenzinnorzin&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Tenzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzinnorzin&theme=omni&show_icons=true)
 
 <hr>
 
