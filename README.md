@@ -26,6 +26,12 @@ My profile consists of my projects and my code for DSA practice.
 
 <hr>
 
+My Stats:
+
+![Tenzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
+<hr>
+
 ## Profiles
 :small_orange_diamond:	[Linkedin](https://www.linkedin.com/in/norzin-tenzin)
 
