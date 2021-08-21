@@ -28,7 +28,7 @@ My profile consists of my projects and my code for DSA practice.
 
 My Stats:
 
-![Tenzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzinnorzin)
+![Tenzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzinnorzin&theme=jolly&show_icons=true)
 
 <hr>
 
