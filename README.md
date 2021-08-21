@@ -5,6 +5,8 @@ My name is Tenzin Norzin and my pronouns are she/her. My field of interest is we
 
 My profile consists of my projects and my code for DSA practice. 
 
+<hr>
+
 ## Skills :computer:	:hammer:	:books:
 ### Development
 :small_orange_diamond:	HTML
@@ -21,6 +23,8 @@ My profile consists of my projects and my code for DSA practice.
 :small_orange_diamond:	OOPs
 
 :small_orange_diamond:	Operating systems, DBMS, Computer Networks
+
+<hr>
 
 ## Profiles
 :small_orange_diamond:	[Linkedin](https://www.linkedin.com/in/norzin-tenzin)
