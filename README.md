@@ -1,4 +1,4 @@
-![banner](https://i.postimg.cc/hGS8XCMR/Tenzin-Norzin-Computer-science-Student.png)
+![banner](https://imgur.com/4XEkHfW)
 #             Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :yellow_heart:	
 ### Front end web development enthusiast and Computer Science Student :woman_technologist:	
 My name is Tenzin Norzin and my pronouns are she/her. My field of interest is web development, especially front end. I know technologies such as **HTML**, **CSS**, **JavaScript** and **bootstrap**. I am currently learning React. I practice Datastructures & Algorithms regularly too as it improves problem solving skill, hence making you a better developer.
