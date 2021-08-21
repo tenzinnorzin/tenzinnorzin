@@ -1,16 +1,49 @@
-### Hi there 👋
+![banner](https://i.postimg.cc/hGS8XCMR/Tenzin-Norzin-Computer-science-Student.png)
+#             Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :yellow_heart:	
+### Front end web development enthusiast and Computer Science Student :woman_technologist:	
+My name is Tenzin Norzin and my pronouns are she/her. My field of interest is web development, especially front end. I know technologies such as **HTML**, **CSS**, **JavaScript** and **bootstrap**. I am currently learning React. I practice Datastructures & Algorithms regularly too as it improves problem solving skill, hence making you a better developer.
 
-<!--
-**tenzinnorzin/tenzinnorzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My profile consists of my projects and my code for DSA practice. 
 
-Here are some ideas to get you started:
+## Skills :computer:	:hammer:	:books:
+### Development
+:small_orange_diamond:	HTML
+:small_orange_diamond:	CSS
+:small_orange_diamond:	JavaScript
+:small_orange_diamond:	Bootstrap
+:small_orange_diamond:	Java
+:small_orange_diamond:	C
+:small_orange_diamond:	SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming and CS Fundamentals
+:small_orange_diamond:	Datastructures & Algorithms
+
+:small_orange_diamond:	OOPs
+
+:small_orange_diamond:	Operating systems, DBMS, Computer Networks
+
+## Profiles
+:small_orange_diamond:	[Linkedin](https://www.linkedin.com/in/norzin-tenzin)
+
+:small_orange_diamond:  [LeetCode](https://leetcode.com/tenzinnorzin/)
+
+:small_orange_diamond:  [Hackerrank](https://www.hackerrank.com/tenzinnorzin2000)
+ 
+<hr>
+
+## About me other than coding 	:tulip:	:heartpulse:	
+Things I love to do:
+
+Draw and paint :paintbrush:	:man_artist:	
+
+Sing and play the guitar :microphone:	:guitar:	
+
+play my favourite video game, Sims 4 :video_game:	
+
+basically I love creative activities! 
+
+<hr>
+
+## Hope you enjoy checking out my projects! enjoy the ride :love_letter:	
+
+![good boi enjoying the ride](fxTX.gif)
