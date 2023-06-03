@@ -57,6 +57,6 @@ basically I love creative activities!
 
 <hr>
 
-## Hope you enjoy checking out my projects! enjoy the ride :love_letter:	
+## Hope you enjoy checking out my projects! :love_letter:	
 
 ![good boi enjoying the ride](fxTX.gif)
